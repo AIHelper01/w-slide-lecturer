@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 英文授课讲稿"
+  short_description: "按原PPT结构优化英文并制作含原图、加粗原文、自然串联与例子的Word讲稿"
+  default_prompt: "使用 $slide-teaching-guide 将这份PPT制作成英文授课Word讲稿，保留原结构、原页截图，原文加粗，适当扩展并自然串联。"
